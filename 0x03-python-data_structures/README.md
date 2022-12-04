@@ -1,2 +1,2 @@
 # Python data structures
-This directory has all python data structures solution
+Please find all python data structures solutions here
